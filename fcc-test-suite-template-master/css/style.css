@@ -6,4 +6,5 @@ body {
   background-color: lightblue;
 }
 h1 {
-  Centered!}
+  text-align: center;
+}
